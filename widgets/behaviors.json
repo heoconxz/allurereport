@@ -1,0 +1,26 @@
+{
+  "total" : 3,
+  "items" : [ {
+    "uid" : "fc1b50120ad92d5dacb7e57917d58853",
+    "name" : "QLCLMC_CAM",
+    "statistic" : {
+      "failed" : 6,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 16,
+      "unknown" : 0,
+      "total" : 22
+    }
+  }, {
+    "uid" : "db495b032c81e7154fd966d635e0eec4",
+    "name" : "Functions",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

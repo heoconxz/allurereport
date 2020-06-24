@@ -1,0 +1,281 @@
+[ {
+  "uid" : "e2f7401f18aab69b",
+  "name" : "UserCreate_SuperAdmin_P01",
+  "time" : {
+    "start" : 1592915852080,
+    "stop" : 1592915853979,
+    "duration" : 1899
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "b0e38f20a9fc7227",
+  "name" : "DepartmentCreate_Area_P01",
+  "time" : {
+    "start" : 1592915717217,
+    "stop" : 1592915717361,
+    "duration" : 144
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "b7613d0081e7cd81",
+  "name" : "DepartmentCreate_Company_P01",
+  "time" : {
+    "start" : 1592915716726,
+    "stop" : 1592915716881,
+    "duration" : 155
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "53ce09a00a571c7d",
+  "name" : "Login_ManagerZone_P01",
+  "time" : {
+    "start" : 1592828599169,
+    "stop" : 1592828599315,
+    "duration" : 146
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "af55aeba7e3f7981",
+  "name" : "DepartmentCreate_Authorization_N01",
+  "time" : {
+    "start" : 1592915715003,
+    "stop" : 1592915716709,
+    "duration" : 1706
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "116a5b31b6df37e",
+  "name" : "Login_SuperAmin_P01",
+  "time" : {
+    "start" : 1592828599323,
+    "stop" : 1592828599465,
+    "duration" : 142
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "5f68e02d5bb4211b",
+  "name" : "UserCreate_ManMarketing_P03",
+  "time" : {
+    "start" : 1592986635280,
+    "stop" : 1592986635771,
+    "duration" : 491
+  },
+  "status" : "failed",
+  "severity" : "critical"
+}, {
+  "uid" : "a7167a4421113c7a",
+  "name" : "DepartmentCreate_Authorization_P02",
+  "time" : {
+    "start" : 1592900237900,
+    "stop" : 1592900238247,
+    "duration" : 347
+  },
+  "status" : "failed",
+  "severity" : "critical"
+}, {
+  "uid" : "a6a056d252615229",
+  "name" : "Login_ManagerCompany_P01",
+  "time" : {
+    "start" : 1592828598804,
+    "stop" : 1592828599005,
+    "duration" : 201
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "59564cb4f7802b0d",
+  "name" : "DepartmentCreate_Prope_P01",
+  "time" : {
+    "start" : 1592915717065,
+    "stop" : 1592915717206,
+    "duration" : 141
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "489f644466fba077",
+  "name" : "UserCreate_Manager_P03",
+  "time" : {
+    "start" : 1592978393827,
+    "stop" : 1592978396248,
+    "duration" : 2421
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "cb36fdd655a55a97",
+  "name" : "Login_SuperAmin_P01",
+  "time" : {
+    "start" : 1592878150579,
+    "stop" : 1592878150753,
+    "duration" : 174
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "923bbc43f7076d8b",
+  "name" : "UserCreate_StaffMarketing_P03",
+  "time" : {
+    "start" : 1592987814158,
+    "stop" : 1592987814659,
+    "duration" : 501
+  },
+  "status" : "failed",
+  "severity" : "critical"
+}, {
+  "uid" : "bff1640a47628ef3",
+  "name" : "UserCreate_StaffMarketing_P02",
+  "time" : {
+    "start" : 1592987772138,
+    "stop" : 1592987772717,
+    "duration" : 579
+  },
+  "status" : "failed",
+  "severity" : "critical"
+}, {
+  "uid" : "b490d17e37669c32",
+  "name" : "UserCreate_Manager_P01",
+  "time" : {
+    "start" : 1592915855102,
+    "stop" : 1592915855496,
+    "duration" : 394
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "a04570eade9bbf77",
+  "name" : "Login_CorrectReq_P01",
+  "time" : {
+    "start" : 1592822410832,
+    "stop" : 1592822410834,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "6d96a4338bd83220",
+  "name" : "Login_ManagerCoso_P01",
+  "time" : {
+    "start" : 1592828599015,
+    "stop" : 1592828599162,
+    "duration" : 147
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "95cf00cacbb4f54e",
+  "name" : "UserCreate_Manager_P02",
+  "time" : {
+    "start" : 1592915855507,
+    "stop" : 1592915855959,
+    "duration" : 452
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "f419e2a17561f0ad",
+  "name" : "UserCreate_ManMarketing_P02",
+  "time" : {
+    "start" : 1592986092423,
+    "stop" : 1592986092835,
+    "duration" : 412
+  },
+  "status" : "failed",
+  "severity" : "critical"
+}, {
+  "uid" : "588d60917579809",
+  "name" : "UserCreate_Admin_P01",
+  "time" : {
+    "start" : 1592915854001,
+    "stop" : 1592915855080,
+    "duration" : 1079
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "90d24ea711ffcab8",
+  "name" : "UserCreate_ManMarketing_P01",
+  "time" : {
+    "start" : 1592983976999,
+    "stop" : 1592983977254,
+    "duration" : 255
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "32cec1f0f8c2adc1",
+  "name" : "UserCreate_Manger_P01",
+  "time" : {
+    "start" : 1592910657256,
+    "stop" : 1592910659712,
+    "duration" : 2456
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "ada477e0764c31e2",
+  "name" : "Login_Amin_P01",
+  "time" : {
+    "start" : 1592828596560,
+    "stop" : 1592828598784,
+    "duration" : 2224
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "94bc1d3ec9ccb3e7",
+  "name" : "DepartmentCreate_Authorization_P01",
+  "time" : {
+    "start" : 1592900237384,
+    "stop" : 1592900237888,
+    "duration" : 504
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "d40fa11c714fc1e1",
+  "name" : "UserCreate_StaffMarketing_P01",
+  "time" : {
+    "start" : 1592987745621,
+    "stop" : 1592987746119,
+    "duration" : 498
+  },
+  "status" : "failed",
+  "severity" : "critical"
+}, {
+  "uid" : "e41eb0e9b454f475",
+  "name" : "DepartmentCreate_CorrectReq_P01",
+  "time" : {
+    "start" : 1592878239932,
+    "stop" : 1592878240012,
+    "duration" : 80
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "85b912947829f670",
+  "name" : "DepartmentCreate_Zone_P01",
+  "time" : {
+    "start" : 1592915716900,
+    "stop" : 1592915717057,
+    "duration" : 157
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "5bc2abbdc9e964fb",
+  "name" : "DepartmentCreate_Room_P01",
+  "time" : {
+    "start" : 1592915717368,
+    "stop" : 1592915717524,
+    "duration" : 156
+  },
+  "status" : "passed",
+  "severity" : "critical"
+} ]

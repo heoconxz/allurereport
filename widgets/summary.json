@@ -1,0 +1,20 @@
+{
+  "reportName" : "[QLCLMC] API TESTING REPORT\n",
+  "testRuns" : [ ],
+  "statistic" : {
+    "failed" : 6,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 22,
+    "unknown" : 0,
+    "total" : 28
+  },
+  "time" : {
+    "start" : 1592822410832,
+    "stop" : 1592987814659,
+    "duration" : 165403827,
+    "minDuration" : 2,
+    "maxDuration" : 2456,
+    "sumDuration" : 17863
+  }
+}
